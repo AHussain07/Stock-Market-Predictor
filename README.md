@@ -41,8 +41,10 @@ To run the model, follow these steps:
    git clone <repository_url>
    cd <repository_directory>
 2. **Install the required packages: Make sure you have Python 3.x installed. Install the necessary packages using pip**:
+   ```bash
     pip install yfinance pandas numpy scikit-learn
 3. **Run the script: Execute the Python script to run the model**:
+   ```bash
     python stock_market_prediction.py
 
 ## Requirements
