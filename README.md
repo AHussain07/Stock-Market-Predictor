@@ -36,13 +36,13 @@ The following features are utilized in the model:
 
 To run the model, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the repository**:
    ```bash
    git clone <repository_url>
    cd <repository_directory>
-2. **Install the required packages: Make sure you have Python 3.x installed. Install the necessary packages using pip:**
+2. **Install the required packages: Make sure you have Python 3.x installed. Install the necessary packages using pip**:
     pip install yfinance pandas numpy scikit-learn
-3. **Run the script: Execute the Python script to run the model:**
+3. **Run the script: Execute the Python script to run the model**:
     python stock_market_prediction.py
 
 ## Requirements
@@ -51,4 +51,3 @@ To run the model, follow these steps:
 * pandas for data manipulation.
 * numpy for numerical computations.
 * scikit-learn for machine learning functionalities.
-
