@@ -38,8 +38,8 @@ To run the model, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/AHussain07/Stock-Market-Predictor
+   
 2. **Install the required packages: Make sure you have Python 3.x installed. Install the necessary packages using pip**:
    ```bash
     pip install yfinance pandas numpy scikit-learn
